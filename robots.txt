@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mrabdulhadidev.github.io/sitemap.xml
